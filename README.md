@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://graph.org/file/af4a357fd6e142d8a1a6c.jpg" alt="DQ-The-File-Donor Logo">
 </p>
 <h1 align="center">
   𝑫𝑸-𝑻𝒉𝒆-𝑭𝒊𝒍𝒆-𝑫𝒐𝒏𝒐𝒓 𝑩𝒐𝒕
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝐷𝑄-𝑇ℎ𝑒-𝐹𝑖𝑙𝑒-𝐷𝑜𝑛𝑜𝑟!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+Jᴏᴇʟ+ᠰ+TɢX!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝐷𝑄-𝑇ℎ𝑒-𝐹𝑖𝑙𝑒-𝐷𝑜𝑛𝑜𝑟!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+HK+_+Bots!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
 </p>
 
-<a href="https://github.com/Harmish-kachhadiya/DQ-The-File-Donor/stargazers"><img src="https://img.shields.io/github/stars/Harmish-kachhadiya/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Harmish-kachhadiya/DQ-The-File-Donor/network/members"> <img src="https://img.shields.io/github/forks/Harmish-kachhadiya/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Harmish-kachhadiya/DQ-The-File-Donor"> <img src="https://img.shields.io/github/repo-size/Harmish-kachhadiya/DQ-The-File-Donor?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
-<a href="https://github.com/Harmish-kachhadiya/DQ-The-File-Donor/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/Harmish-kachhadiya/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Harmish-kachhadiya/DQ-The-File-Donor"> <img src="https://img.shields.io/github/contributors/Harmish-kachhadiya/DQ-The-File-Donor?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Harmish-kachhadiya/DQ-The-File-Donor/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Harmish77/DQ-The-File-Donor/stargazers"><img src="https://img.shields.io/github/stars/Harmish77/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Harmish77/DQ-The-File-Donor/network/members"> <img src="https://img.shields.io/github/forks/Harmish77/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Harmish77/DQ-The-File-Donor"> <img src="https://img.shields.io/github/repo-size/Harmish77/DQ-The-File-Donor?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
+<a href="https://github.com/Harmish77/DQ-The-File-Donor/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/Harmish77/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Harmish77/DQ-The-File-Donor"> <img src="https://img.shields.io/github/contributors/Harmish77/DQ-The-File-Donor?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Harmish77/DQ-The-File-Donor/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 
@@ -114,13 +114,13 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Harmish-kachhadiya/DQ-The-File-Donor/blob/master/info.py) for more optional variables
+* Check [info.py](https://github.com/Harmish77/DQ-The-File-Donor/blob/master/info.py) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Harmish-kachhadiya/DQ-the-file-donor">
+<a href="https://heroku.com/deploy?template=https://github.com/Harmish77/DQ-the-file-donor">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -140,7 +140,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Harmish-kachhadiya/DQ-The-FIle-Donor&branch=web&name=dqthefiledonor)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Harmish77/DQ-The-FIle-Donor&branch=web&name=dqthefiledonor)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -167,7 +167,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Harmish-kachhadiya/DQ-the-file-donor/tree/web">
+<a href="https://render.com/deploy?repo=https://github.com/Harmish77/DQ-the-file-donor/tree/web">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -175,7 +175,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Harmish-kachhadiya/DQ-The-File-Donor
+git clone https://github.com/Harmish77/DQ-The-File-Donor
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -188,7 +188,7 @@ python3 bot.py
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Harmish-kachhadiya)
+* [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Harmish77)
 * [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
 
 ## Thanks to 
@@ -197,7 +197,7 @@ python3 bot.py
  - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
  - Thanks To All Everyone In This Journey
  - Thanks To [EvamariaTG](https://raw.githubusercontent.com/EvamariaTG) for their awesome [EvaMaria Bot](https://raw.githubusercontent.com/EvamariaTG/EvaMaria)
- - Thanks To [Harmish-kachhadiya](https://github.com/Harmish-kachhadiya) who have edited and modified this repo as now it is. (It's me 😂)
+ - Thanks To [Harmish77](https://github.com/Harmish77) who have edited and modified this repo as now it is. (It's me 😂)
 
 ## Note 🏷️
  - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
@@ -218,3 +218,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
 
 [![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
+
