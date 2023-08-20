@@ -1,6 +1,6 @@
 import logging
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid, ChatAdminRequired
-from info import AUTH_CHANNEL, LONG_IMDB_DESCRIPTION, MAX_LIST_ELM, SHORTLINK_URL, SHORTLINK_API, LOG_CHANNEL, GRP_LNK, CHNL_LNK, CUSTOM_FILE_CAPTION, IS_VERIFY, VERIFY2_URL, VERIFY2_API, PROTECT_CONTENT, HOW_TO_VERIFY
+from info import AUTH_CHANNEL, DIRECT_GEN, DIRECT_GEN_DB, DIRECT_GEN_URL, LONG_IMDB_DESCRIPTION, MAX_LIST_ELM, SHORTLINK_URL, SHORTLINK_API, LOG_CHANNEL, GRP_LNK, CHNL_LNK, CUSTOM_FILE_CAPTION, IS_VERIFY, VERIFY2_URL, VERIFY2_API, PROTECT_CONTENT, HOW_TO_VERIFY
 from imdb import Cinemagoer 
 import asyncio
 from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
@@ -658,7 +658,7 @@ async def send_all(bot, userid, files, ident):
                         InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                         InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                     ],[
-                        InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+                        InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Mr_HKs")
                         ]
                     ]
                 )
@@ -728,3 +728,65 @@ async def check_verification(bot, userid):
                 return True
         else:
             return True
+
+#Direct Link Generator
+async def direct_gen_handler(m: Message):
+    if not DIRECT_GEN:
+        return None, None
+        try:
+            log_msg = await m.copy(chat_id=DIRECT_GEN_DB)
+            stream_link, download_link = await gen_link(log_msg)
+            if stream_link and download_link:
+                if not m.reply_markup:
+                    markup = InlineKeyboardMarkup(
+                        [
+                            [
+                                InlineKeyboardButton("🎥 Stream 🎥", url=stream_link),
+                                InlineKeyboardButton("📥 Download 📥", url=download_link)
+                            ]
+                        ]
+                    )
+                else:
+                    markup = m.reply_markup.inline_keyboard.copy()
+                    markup.insert(
+                        0,
+                        [
+                            InlineKeyboardButton("🎥 Stream 🎥", url=stream_link),
+                            InlineKeyboardButton("📥 Download 📥", url=download_link)
+                        ]
+                    )
+                    markup = InlineKeyboardMarkup(markup)
+                    return markup
+        except FloodWait as e:
+            await asyncio.sleep(e.value)
+            await direct_gen_handler(m)
+
+# Direct Link Generator
+async def gen_link(log_msg):
+    page_link = f"{DIRECT_GEN_URL}watch/{get_hash(log_msg)}{log_msg.id}"
+    stream_link = f"{DIRECT_GEN_URL}{log_msg.id}/{quote_plus(get_name(log_msg))}?hash={get_hash(log_msg)}"
+    return page_link, stream_link
+
+def get_media_from_message(message: "Message"):
+    media_types = (
+        "audio",
+        "document",
+        "photo",
+        "sticker",
+        "animation",
+        "video",
+        "voice",
+        "video_note",
+    )
+    for attr in media_types:
+        if media := getattr(message, attr, None):
+            return media
+            
+    def get_name(media_msg: Message) -> str:
+        media = get_media_from_message(media_msg)
+        return getattr(media, "file_name", "None")
+        
+        
+    def get_hash(media_msg: Message) -> str:
+        media = get_media_from_message(media_msg)
+        return getattr(media, "file_unique_id", "")[:6]
