@@ -1,3 +1,4 @@
+
 from pyrogram import Client, filters, enums
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 from pyrogram.errors.exceptions.bad_request_400 import MessageTooLong, PeerIdInvalid
@@ -9,7 +10,7 @@ from Script import script
 from pyrogram.errors import ChatAdminRequired
 import asyncio 
 
-"""-----------------------------------------https://t.me/GetTGLink/4179 --------------------------------------"""
+"""-----------------------------------------https://t.me/main_movie_hub--------------------------------------"""
 
 @Client.on_message(filters.new_chat_members & filters.group)
 async def save_group(bot, message):
@@ -208,7 +209,7 @@ async def ban_a_user(bot, message):
     try:
         k = await bot.get_users(chat)
     except PeerIdInvalid:
-        return await message.reply("This is an invalid user, make sure ia have met him before.")
+        return await message.reply("This is an invalid user, make sure I have met him before.")
     except IndexError:
         return await message.reply("This might be a channel, make sure its a user.")
     except Exception as e:
